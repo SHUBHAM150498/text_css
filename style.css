@@ -1,0 +1,35 @@
+h1{
+    color:red
+   }
+   ol{
+       color:brown
+   }
+   
+   h3{
+       color:red
+   }
+   #text{
+       text-decoration:line-through;
+   }
+   
+   #list-1{
+       text-decoration:underline;
+   }
+   
+   p{
+       color:brown
+   }
+   
+   #list-3{
+     letter-spacing:7px;
+       color:brown
+       
+   }
+   #list-4{
+      letter-spacing: 7px;
+       color:brown
+       
+   }
+   a{
+       color:red
+   }
